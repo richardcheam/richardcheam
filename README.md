@@ -1,4 +1,4 @@
-- 👋 É(h)ello, I’m @richardcheam :grey_exclamation:
+- 👋 É(h)ello, I’m @richardcheam:exclamation:
 - :technologist: I’m currently an engineering/master’s student in Data Science (Yes, I do like AI :dependabot: and statistics :bar_chart:).
 - :bowtie: Fun fact:
    - I chose to do what I do because I like it the best among other fields and :money_with_wings:
