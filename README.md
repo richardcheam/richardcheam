@@ -1,5 +1,5 @@
 - 👋 É(h)ello, I’m @richardcheam
-- :dizzy: I’m currently an engineering/master’s student in Data Science (Yes, I do like AI and statistics).
+- :technologist: I’m currently an engineering/master’s student in Data Science (Yes, I do like AI and statistics :bar_chart:).
 - ⚡ Fun fact:
    - I chose to do what I do because I like it the best among other fields and :money_with_wings:
    - I enjoy listening to theweeknd :musical_score:, watching anything :movie_camera:, exploring new places :ocean::palm_tree::sunny:, eating out :ramen::meat_on_bone::tea:
