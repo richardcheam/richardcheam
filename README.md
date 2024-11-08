@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @richardcheam
+- 👋 É(h)ello, I’m @richardcheam
 - :dizzy: I’m currently an engineering/master’s student in Data Science (Yes, I do like AI and statistics).
 - ⚡ Fun fact:
    - I chose to do what I do because I like it the best among other fields and :money_with_wings:
